@@ -94,6 +94,7 @@ Example: http://localhost:5000/api/v1.0/precipitation
   { "date": "2016-08-24", "precip": 0.08 },
   // ... more results
 ]
+```
 
 ---
 
