@@ -98,8 +98,7 @@ Example: http://localhost:5000/api/v1.0/precipitation
 
 ---
 
-📄 License
-
+📄 License<br>
 This project is for educational/demo purposes and is open for personal or professional portfolio use.
 
 ---
