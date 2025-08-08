@@ -61,19 +61,23 @@ All date inputs must follow the format: `YYYY-MM-DD`
 ```bash
 git clone https://github.com/mbullock06/SQLAlchemy-Challenge.git
 cd SQLAlchemy-Challenge
+```
 
 ### 2. Set Up the Environment
 ```bash
 pip install -r requirements.txt
+```
 
 ### 3. Run the Flask API
 ```bash
 python app.py
 Open your browser to: http://localhost:5000
+```
 
 ### 4. Run the Jupyter Notebook
 ```bash
 jupyter notebook climate_cleaned.ipynb
+```
 
 ---
 
