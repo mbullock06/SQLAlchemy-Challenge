@@ -9,9 +9,13 @@ This project analyzes historical climate data from Hawaii using Python, SQLAlche
 
 ## 📁 Project Structure
 ├── Resources
+
 ├── hawaii.sqlite # SQLite database with climate & station data
+
 ├── app.py # Flask API for climate endpoints
+
 ├── climate_cleaned.ipynb # Jupyter Notebook for EDA and visualization
+
 ├── README.md # You're here!
 
 
